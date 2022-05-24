@@ -23,3 +23,6 @@ const Originals = (props) => {
   );
 };
 export default Originals;
+/**
+ * s
+ */
